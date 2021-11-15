@@ -1,0 +1,9 @@
+program consts;
+const A =  21;
+      B = $21;
+      C = &21;
+begin
+  writeln(A);
+  writeln(B);
+  writeln(C);
+end.

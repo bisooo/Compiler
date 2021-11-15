@@ -1,0 +1,10 @@
+program expressions;
+
+const mult = 5;
+var n: integer;
+
+begin
+    n = 4;
+    n = (n - 1) * mult + 10;
+    writeln(n);
+end.

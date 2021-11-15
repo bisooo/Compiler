@@ -1,0 +1,7 @@
+program twochar;
+var n : integer;
+begin
+    n = 21;
+    if n <= 22 then writeln(100);
+    else writeln(99);
+end.
