@@ -1,4 +1,4 @@
-# Semestral Work
+# " MILA COMPILER " 
 
 - CMakeLists.txt - CMake source file
 - main.hpp - main function definition
